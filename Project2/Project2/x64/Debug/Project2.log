@@ -1,0 +1,4 @@
+﻿  Project2.cpp
+C:\Users\molly\OneDrive\Desktop\School\CS 300\CS 300 - Project 2\Project2\Project2\Project2.cpp(355,5): warning C4551: function call missing argument list
+C:\Users\molly\OneDrive\Desktop\School\CS 300\CS 300 - Project 2\Project2\Project2\Project2.cpp(364,14): warning C4101: 'err': unreferenced local variable
+  Project2.vcxproj -> C:\Users\molly\OneDrive\Desktop\School\CS 300\CS 300 - Project 2\Project2\x64\Debug\Project2.exe
